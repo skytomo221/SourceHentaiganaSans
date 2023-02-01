@@ -9,5 +9,5 @@
 
 現在は以下のようになっています。
 
-![image](https://user-images.githubusercontent.com/18415838/213730466-c130469e-5970-4992-ae5b-21202147a671.png)
+![image](https://user-images.githubusercontent.com/18415838/216066728-ed585cae-9180-4410-9232-6eb9852ad5e6.png)
 ![](https://pbs.twimg.com/media/Fml88CKaAAAm0zb?format=jpg&name=4096x4096)
